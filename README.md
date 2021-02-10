@@ -8,7 +8,7 @@
 </p>
 <br>
 <p align="center" style="text-align: center;">
-  <a href="./README.pt-br.md">🇧🇷 Switch to portuguese ➤</a>
+  <a href="./README.pt-br.md">🇧🇷 Mudar para português ➤</a>
 </p>
 <br>
 <p align="center" style="text-align: center;">
