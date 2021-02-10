@@ -5,10 +5,15 @@
     👋 Hello I'm a fr000ntend developer<br>
     👽 Loved javascript and decided to stay
   </samp>
-  <br><br>
-  <a href="./README.pt-br.md">🇧🇷 Switch to portuguese ➤</a></p>
 </p>
+<br>
 <p align="center" style="text-align: center;">
-  I'm currently studying and working with ReactJS, React Native, NodeJS and Typescript when enough coffee is available.<br>
-  Check out my 🔥<a href="" target="_blank">personal projects</a>🔥 and fear not!
+  <a href="./README.pt-br.md">🇧🇷 Switch to portuguese ➤</a>
+</p>
+<br>
+<p align="center" style="text-align: center;">
+  I'm currently studying and working with<br>
+  ReactJS, React Native, NodeJS<br>
+  and Typescript when enough coffee is available.<br>
+  Check out my 🔥personal projects🔥 and fear not!
 </p>
