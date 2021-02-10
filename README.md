@@ -1,9 +1,7 @@
 <p align="center">
-  <img src="https://i.gifer.com/bxB.gif">
+  <img src="./assets/4hsh.gif" alt="Charizard flying">
    <br><br>
   <samp>
-    👋 Hello I'm a<br />
-    fr0000ntend<br />
-    developer
+    👋 Hello I'm a fr000ntend developer
   </samp>
 </p>
