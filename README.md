@@ -18,9 +18,9 @@
   <samp>🖥️ Coding @ IBM.com</samp>
   <br><br>
   Check out my 🔥personal projects🔥 and fear not!<br>
-  <img src="./assets/react-rszd.gif" alt="ReactJS logo">&nbsp;
-  <img src="./assets/react-rszd.gif" alt="ReactJS logo">&nbsp;
-  <img src="./assets/react-rszd.gif" alt="ReactJS logo">&nbsp;
-  <img src="./assets/react-rszd.gif" alt="ReactJS logo">&nbsp;
-  <img src="./assets/react-rszd.gif" alt="ReactJS logo">&nbsp;
+  <img src="./assets/react-logo.gif" alt="ReactJS logo">&nbsp;
+  <img src="./assets/react-logo.gif" alt="ReactJS logo">&nbsp;
+  <img src="./assets/react-logo.gif" alt="ReactJS logo">&nbsp;
+  <img src="./assets/react-logo.gif" alt="ReactJS logo">&nbsp;
+  <img src="./assets/react-logo.gif" alt="ReactJS logo">&nbsp;
 </p>
