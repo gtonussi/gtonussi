@@ -1,6 +1,6 @@
 <p align="center" style="text-align: center;">
   <img src="./assets/4hsh.gif" alt="Charizard flying">
-   <br><br>
+  <br><br>
   <samp>
     👋 Hello, I'm a fr000ntend developer.<br>
     👽 Loved javascript and decided to stay.
@@ -17,5 +17,6 @@
   <br><br>
   <samp>🖥️ Coding @ IBM.com</samp>
   <br><br>
-  Check out my 🔥personal projects🔥 and fear not!
+  Check out my 🔥personal projects🔥 and fear not!<br>
+  <img src="./assets/react.gif" style="height: 12px;" alt="ReactJS logo">&nbsp;
 </p>
