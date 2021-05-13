@@ -12,12 +12,9 @@
 </p>
 <br>
 <p align="center" style="text-align: center;">
-  I'm currently studying and working with ReactJS, React Native, NodeJS<br>
-  and Typescript when enough coffee is available.
-  <br><br>
   <samp>🖥️ Coding @ IBM.com</samp>
   <br><br>
-  Check out my 🔥personal projects🔥 and fear not!<br>
+  🔥 Check out my personal projects 🔥<br>
   <img src="./assets/react_logo.gif" alt="ReactJS logo">&nbsp;
   <img src="./assets/react_logo.gif" alt="ReactJS logo">&nbsp;
   <img src="./assets/react_logo.gif" alt="ReactJS logo">&nbsp;
