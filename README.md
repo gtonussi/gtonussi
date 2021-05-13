@@ -3,7 +3,8 @@
   <br><br>
   <samp>
     👋 Hello, I'm a fr000ntend developer.<br>
-    👽 Loved javascript and decided to stay.
+    👽 Loved javascript and decided to stay.<br>
+    <samp>🖥️ Coding @ IBM.com</samp>
   </samp>
 </p>
 <br>
@@ -12,9 +13,7 @@
 </p>
 <br>
 <p align="center" style="text-align: center;">
-  <samp>🖥️ Coding @ IBM.com</samp>
-  <br><br>
-  🔥 Check out my personal projects 🔥<br>
+  🔥 Here you'll find my personal projects 🔥<br>
   <img src="./assets/react_logo.gif" alt="ReactJS logo">&nbsp;
   <img src="./assets/react_logo.gif" alt="ReactJS logo">&nbsp;
   <img src="./assets/react_logo.gif" alt="ReactJS logo">&nbsp;
