@@ -4,7 +4,7 @@
   <samp>
     👋 Olá, Eu sou um desenvolvedor fr000ntend.<br>
     👽 Amei o javascript e resolvi ficar.<br>
-    🖥️ Codando @ IBM.com
+    Codando @ IBM.com
   </samp>
 </p>
 <br>
