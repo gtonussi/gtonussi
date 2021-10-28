@@ -4,7 +4,7 @@
   <samp>
     👋 Hello, I'm a fr000ntend developer.<br>
     👽 Loved javascript and decided to stay.<br>
-    Coding @ IBM.com
+    Coding @ UOL - Universo Online
   </samp>
 </p>
 <br>
