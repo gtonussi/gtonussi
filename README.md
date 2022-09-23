@@ -6,10 +6,13 @@
   </samp>
 </p>
 <p align="center" style="text-align: center;">
-  🔥 Here you'll find my personal projects 🔥<br>
-  <img src="./assets/react_logo.gif" alt="ReactJS logo">&nbsp;
-  <img src="./assets/react_logo.gif" alt="ReactJS logo">&nbsp;
-  <img src="./assets/react_logo.gif" alt="ReactJS logo">&nbsp;
-  <img src="./assets/react_logo.gif" alt="ReactJS logo">&nbsp;
-  <img src="./assets/react_logo.gif" alt="ReactJS logo">&nbsp;
+  <samp>
+    <img src="./assets/react_logo.gif" alt="ReactJS logo">&nbsp;
+    <img src="./assets/react_logo.gif" alt="ReactJS logo">&nbsp;
+    <img src="./assets/react_logo.gif" alt="ReactJS logo">&nbsp;
+    <img src="./assets/react_logo.gif" alt="ReactJS logo">&nbsp;
+    <img src="./assets/react_logo.gif" alt="ReactJS logo">&nbsp;
+  <br>
+    🔥 Here you'll find my personal projects 🔥
+  </samp>
 </p>
