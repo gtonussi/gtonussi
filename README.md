@@ -1,6 +1,6 @@
 <p align="center" style="text-align: center;">
   <img src="./assets/4hsh.gif" alt="Charizard flying">
-  <br><br>
+  <br>
   <samp>
     👽: "Loved javascript and decided to stay"
   </samp>
